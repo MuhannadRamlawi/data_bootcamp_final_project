@@ -1,6 +1,6 @@
 # data_bootcamp_final_project
 
-This project was completed by Mohannad Alramlawi in partial fulfilment of ECON-UB.0232,
+This project was completed by Mohannad Alramlawi and Zeyad Dahab in partial fulfilment of ECON-UB.0232,
 Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project.
 In particular, I have:
 Clearly acknowledged the work and efforts of others when submitting written work as our own.
