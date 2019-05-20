@@ -13,5 +13,5 @@ or in a different semester, without the express approval of all instructors is s
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
 
-Project Description
-Insert one paragraph description of your project
+Project Description:
+This project focuses on the economic effects of the Arab Spring on different countries in the MENA region. In order to study those effects, several variables were utilized, including GDP, Gross National Savings, Inflation, and Volume of Exports. Those variables have been analyzed between the years 2004 and 2018, paying special attention to the year 2011 (when the Arab spring started). First, a series of graphs -each with the variable "year" on the x-axis and the different economic indicators listed above on the y-axis- were generated for the region as a whole. This gives us a general overview of the entire region. Then, the same graphs were generated, only this time each country was be explored separately. We started with the countries that experienced revolts, including Egypt, Tunisia, and Libya. Afterwards, we looked at the countries that were indirectly affected by the Arab Spring, including Saudi Arabia, Jordan, and Lebanon. Different methods of visualization have been used throughout the project, including graphing and mapping wherever possible.
